@@ -1,0 +1,2 @@
+shadowsocks = 192.9.128.107:2233, method=aes-128-gcm, password=GAk2ThNXrhGUWc8a, fast-open=true, udp-relay=true, tag=🇺🇸 San Jose
+shadowsocks = 140.83.48.196:2233, method=aes-256-cfb, password=Vicky940915, fast-open=true, udp-relay=true, tag=🇯🇵 Osaka

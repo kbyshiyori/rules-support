@@ -1,0 +1,51 @@
+# > AbemaTV
+USER-AGENT,AbemaTV*,abematv
+DOMAIN-SUFFIX,abema.io,abematv
+DOMAIN-SUFFIX,abema.tv,abematv
+DOMAIN-SUFFIX,ameba.jp,abematv
+DOMAIN-SUFFIX,hayabusa.io,abematv
+DOMAIN-SUFFIX,api-abematv.bucketeer.jp,abematv
+DOMAIN-SUFFIX,vod-abematv.akamaized.net,abematv
+DOMAIN-SUFFIX,abema.adx.promo,abematv
+DOMAIN-SUFFIX,abema-tv.com,abematv
+DOMAIN,abm.hayabusa.media,abematv
+DOMAIN,abematv.akamaized.net,abematv
+DOMAIN,ds-vod-abematv.akamaized.net,abematv
+DOMAIN,linear-abematv.akamaized.net,abematv
+DOMAIN,ds-linear-abematv.akamaized.net,abematv
+DOMAIN,ds-glb-linear-abematv.akamaized.net,abematv
+DOMAIN,link.tv-asahi.co.jp,abematv
+
+DOMAIN-SUFFIX,cybertrust.co.jp,abematv
+DOMAIN-SUFFIX,cybertrust.ne.jp,abematv
+
+
+# > Goal
+DOMAIN-SUFFIX,goal.com,u-next
+DOMAIN-SUFFIX,spox.com,u-next
+DOMAIN-SUFFIX,adingo.jp,u-next
+DOMAIN-SUFFIX,use.sportradarserving.com,u-next
+
+
+# > Hulu JP
+DOMAIN-SUFFIX,hulu.jp,hulu-jp
+DOMAIN-SUFFIX,happyon.jp,hulu-jp
+DOMAIN-SUFFIX,prod.hjholdings.tv,hulu-jp
+
+
+# > Paravi
+DOMAIN-SUFFIX,paravi.jp,paravi
+
+
+# > Spotv Now
+DOMAIN-SUFFIX,spotvnow.jp,u-next
+DOMAIN-SUFFIX,spozone.jp,u-next
+DOMAIN-SUFFIX,brightcove.net,u-next
+DOMAIN-SUFFIX,brightcove.com,u-next
+
+
+# > U-NEXT
+DOMAIN-SUFFIX,unext.jp,u-next
+DOMAIN-SUFFIX,nxtv.jp,u-next
+DOMAIN-SUFFIX,hnext.jp,u-next
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net,u-next

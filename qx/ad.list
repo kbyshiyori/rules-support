@@ -1,0 +1,29 @@
+# > Advertisement
+DOMAIN-KEYWORD,adservice,ad
+  
+# > PeacockTV
+DOMAIN,video-ads-module.ad-tech.nbcuni.com,ad
+
+# > Tencent
+# DOMAIN,btrace.qq.com,ad
+# DOMAIN,mtrace.qq.com,ad
+DOMAIN-KEYWORD,adstats,ad
+DOMAIN,adstats.tencentmusic.com,ad
+  
+# > TVer
+DOMAIN,fod-cm-ad-v.webcdn.stream.ne.jp,ad
+
+# > Viu
+DOMAIN-SUFFIX,adcolony.com,ad
+DOMAIN,r2---sn-j5o76n7e.gvt1.com,ad
+
+# > WeTV
+# DOMAIN,btrace.wetvinfo.com,ad
+# DOMAIN,mtrace.wetvinfo.com,ad
+
+# > iQIYI 
+# 视频暂停广告
+DOMAIN-SUFFIX,cupid.iqiyi.com,ad
+  
+# > Youku 视频暂停广告
+DOMAIN,iyes.youku.com,ad

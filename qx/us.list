@@ -1,0 +1,101 @@
+# > ESPN+
+DOMAIN-SUFFIX,espn.com,espn+
+DOMAIN-SUFFIX,espn.net,espn+
+DOMAIN-SUFFIX,espncdn.com,espn+
+DOMAIN-SUFFIX,espnqa.com,espn+
+DOMAIN-SUFFIX,watchespn.com,espn+
+DOMAIN,espn.api.edge.bamgrid.com,espn+
+DOMAIN,espn.playback.edge.bamgrid.com,espn+
+DOMAIN,espn.hb.omtrdc.net,espn+
+DOMAIN,secure.espncdn.com.edgesuite.net,espn+
+DOMAIN,espn.com.ssl.sc.omtrdc.net,espn+
+DOMAIN,vision.fn-pz.com,espn+
+DOMAIN,espn.hb-api.omtrdc.net,espn+
+DOMAIN,x-live-espn-stgec.uplynk.com,espn+
+DOMAIN,dualstack.dss-espn.map.fastly.net,espn+
+DOMAIN,bam-sdk-configs.bamgrid.com,espn+
+
+
+# > HBO Max
+DOMAIN-SUFFIX,hbo.com,hbomax
+DOMAIN-SUFFIX,hbogo.com,hbomax
+DOMAIN-SUFFIX,hbonow.com,hbomax
+DOMAIN-SUFFIX,hbomax.com,hbomax
+DOMAIN-SUFFIX,hbomaxcdn.com,hbomax
+DOMAIN-SUFFIX,max.com,hbomax
+DOMAIN-SUFFIX,discomax.com,hbomax
+DOMAIN,hbo-max-gtm.wn.r.appspot.com,hbomax
+
+
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,hulu
+DOMAIN-SUFFIX,huluim.com,hulu
+DOMAIN-SUFFIX,hulustream.com,hulu
+DOMAIN,cws-hulu.conviva.com,hulu
+# DOMAIN,assetshuluimcom-a.akamaihd.net,hulu
+
+
+# > NYT
+DOMAIN-SUFFIX,nyt.com,us
+DOMAIN-SUFFIX,nytimes.com,us
+
+
+# > Paramount+
+// US UA
+USER-AGENT,PPlus*,paramount+
+// Intl. UA
+USER-AGENT,ParamountPlus*,paramount+
+DOMAIN-SUFFIX,cbsi.com,paramount+
+// DOMAIN-SUFFIX,cbsaavideo.com,paramount+ #播放
+DOMAIN-SUFFIX,cbsivideo.com,paramount+
+DOMAIN-SUFFIX,paramountplus.com,paramount+
+DOMAIN-SUFFIX,pplusstatic.com,paramount+
+// DOMAIN-SUFFIX,mtvnservices.com,paramount+ #MTV
+// DOMAIN-SUFFIX,cws.conviva.com,paramount+
+DOMAIN,link.theplatform.com,paramount+
+// 播放验证
+DOMAIN,cbsi.live.ott.irdeto.com,paramount+
+// DOMAIN,thumbnails.cbsig.net,paramount+ #缩略图
+// DOMAIN,cbsinteractive.hb.omtrdc.net,paramount+
+// DOMAIN,ads.play.cbsi.video #片头动画，可屏蔽
+// DOMAIN,pubads.g.doubleclick.net #不可屏蔽
+DOMAIN,cbsnews.akamaized.net,paramount+ #CBSN Live
+// CBS live丨US
+DOMAIN,cbsservice.aws.syncbak.com,paramount+
+DOMAIN,cbsplaylistserver.aws.syncbak.com,paramount+
+DOMAIN-SUFFIX,7f077.v.fwmrm.net,paramount+
+DOMAIN-SUFFIX,amlg.io,paramount+
+DOMAIN-SUFFIX,ns1p.net,paramount+
+DOMAIN-SUFFIX,mtvnservices.com,paramount+
+DOMAIN-SUFFIX,cbs.com,paramount+
+DOMAIN-SUFFIX,cbsnews.com,paramount+
+DOMAIN-SUFFIX,cbsig.net,paramount+
+DOMAIN-SUFFIX,cbsaavideo.com,paramount+
+DOMAIN-SUFFIX,cbs.penthera.com,paramount+
+DOMAIN-SUFFIX,cbsinteractive.hb.omtrdc.net,paramount+
+DOMAIN-SUFFIX,87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com,paramount+
+DOMAIN-SUFFIX,ipv4.link.bravo.k8s.aor.theplatform.com,paramount+
+DOMAIN-SUFFIX,pubads.g.doubleclick.net,paramount+
+DOMAIN-SUFFIX,cbsi.map.fastly.net,paramount+
+DOMAIN-SUFFIX,fra-lgct-rg2.live.ott.irdeto.com,paramount+
+
+
+# > Peacock
+USER-AGENT,peacock*,peacock
+DOMAIN-SUFFIX,peacocktv.com,peacock
+DOMAIN-KEYWORD,nbcstreaming,peacock
+DOMAIN-KEYWORD,peacocktv,peacock
+DOMAIN-SUFFIX,nbcuni.com,peacock
+DOMAIN-SUFFIX,nbcuas.com,peacock
+DOMAIN-SUFFIX,comcast.net,peacock
+
+
+# > Youtube TV
+DOMAIN-SUFFIX,youtube.com,youtube
+DOMAIN-SUFFIX,googlevideo.com,youtube
+DOMAIN,yt3.ggpht.com,youtube
+DOMAIN,youtubei.googleapis.com,youtube
+
+
+# > Vroom
+DOMAIN-SUFFIX,vroom.com,us
